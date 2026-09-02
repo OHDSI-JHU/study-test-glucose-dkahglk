@@ -9,4 +9,6 @@ a messy first commit is exactly right.
 
 | Name | Institution | Role | GitHub username |
 |---|---|---|---|
-| _e.g. Jane Okafor_ | _e.g. Johns Hopkins_ | _e.g. Study lead_ | _e.g. @jokafor_ |
+| Rodriguez | Sugar Man University | Study Lead | @seanr87 |
+| Candy Man | Candy Land | Analytics Support | @seanr87 |
+| Cane Sugar | USM | Project Manager | @seanr87 |

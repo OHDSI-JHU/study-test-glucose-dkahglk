@@ -180,17 +180,17 @@ if (knitr::is_latex_output()) {
 # Rationale and Background
 Sugar must be sweet.
 # Study Objectives
-Prove once and for all
+Prove once and for all that sugar is sweet.
 # Research Methods
 
 ## Study Design
-
+The study will be designed carefully
 This study uses `CohortMethod` [@Schuemie2020-fa].
 
 ## Data Sources
-
+Nestle db1
 ## Study Population
-
+All diff types of sugar
 ## Exposure Comparators
 
 ## Outcomes {#outcomes}

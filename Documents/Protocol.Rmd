@@ -194,19 +194,19 @@ All diff types of sugar
 ## Exposure Comparators
 
 ## Outcomes {#outcomes}
-
+Happy faces
 ## Analysis
-
+Pictures
 # Sample Size and Study Power {#sample-size}
-
+Sample size is quite large
 # Strengths and Limitations {#strengths-limitations}
-
+Crystals 
 # Protection of Human Subjects
-
+Toothpaste
 # Management and Reporting of Adverse Events and Adverse Reactions
 
 # Plans for Disseminating and Communicating Study Results
-
+We'll submit a manuscript to _Sweetness_
 \clearpage
 
 # References {-}
